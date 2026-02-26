@@ -1,0 +1,7 @@
+/* Clean slate for App styling */
+main {
+  width: 100vw;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
